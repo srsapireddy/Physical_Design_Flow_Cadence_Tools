@@ -28,7 +28,14 @@ Genus Terminal After Synthesis
 #### Writing Output Files Directory
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/5b9802d4-d2a9-4e2e-af6b-3da20a9e386e)
 
+#### Running the Synthesis Flow with DFT
+Schematic After Running the Flow with DFT
+![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/2adcf541-bb51-462f-b1c9-ced378821030)
+
+
 #### Running Equivalency Checking
+![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/6a0c6433-89e7-42b1-a1e5-b1186db00501)
+
 
 
 
