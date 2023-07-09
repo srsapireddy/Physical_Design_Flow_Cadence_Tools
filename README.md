@@ -4,7 +4,7 @@
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/ea277448-4fc9-4a73-837c-3aa9ec8b09a3)
 
 ### Design Specification and RTL Coding
-#### Simulating a Simple Counter Design
+#### Simulating a Counter Design
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/6fea9e3f-5b20-435b-b9e1-58377b8bdcc2)
 
 ### Code Coverage Flow for a Counter Design
@@ -117,6 +117,9 @@ Save pre-CTS and post-CTS designs
 
 #### Filler Cell Placement
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/3bbb2ae7-9cda-4912-a56c-554efc647735)
+
+##### Output
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/904a2952-43e3-4642-947c-ad6d49423352)
 
 #### Generating a Stream File
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/ac2f6fdf-0bb9-414a-9b4b-ee889667e3cc)
