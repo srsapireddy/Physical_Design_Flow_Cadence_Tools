@@ -39,6 +39,10 @@ Schematic After Running the Flow with DFT
 Output of LEC
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/94f43831-392e-469b-be56-e93e74474a83)
 
+Creating a .v Format File from the .lib Format using Conformal
+![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/755d1c10-8119-4d58-8a35-056d97bd3d5b)
+
+#### Physical Design Implementation Flow
 
 
 
