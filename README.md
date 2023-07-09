@@ -121,7 +121,13 @@ Save pre-CTS and post-CTS designs
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/3bbb2ae7-9cda-4912-a56c-554efc647735)
 
 ##### Output
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/7f53e0a2-5be1-4fb0-8003-258f578be863)
 
+#### Generating a Stream File
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/ac2f6fdf-0bb9-414a-9b4b-ee889667e3cc)
+
+##### Final GDSII Streaming File
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/0dfc5970-26af-4177-a9d7-8de1adae159e)
 
 
 
