@@ -85,15 +85,42 @@ Save pre-CTS and post-CTS designs
 
 ### Running Physical Verification
 
+#### Verifying Geometry
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/06934dee-4217-4562-9dcd-1a1d6536af0f)
 
+##### Output
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/c8534ae9-8b25-4a3f-8367-5e98b85d3de9)
 
+#### Verifying Connectivity
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/3182adc7-a783-4d8e-9e22-6bbe3f945ded)
 
+##### Output
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/4aa0585b-208e-4320-8041-e76ad68e642e)
 
+#### Running Power Analysis
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/59f218b6-2ae4-4c4a-88a9-140f22145294)
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/f8c41462-b133-4013-afa8-6e5d8c1f3a11)
 
+##### Output
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/7b014545-daa4-431a-a197-c6eba29e9021)
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/caa8ca3f-6940-4166-95c9-0e5e61a3daab)
 
+#####
+#### Rail Analysis
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/bdcebf6c-6e52-4701-b54c-5cfc36184033)
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/ace71618-7850-4d9d-8ec2-362f87d3cab4)
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/25708b24-f9c4-4b18-b95e-9662ddffb6de)
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/aeb66eec-3ac6-41fb-9234-a929c2d77adf)
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/6517a131-a069-4984-b550-a5eafda0243c)
 
+##### Output
+##### Power Rail Result - IR Drop
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/a7fc6be6-0023-4d83-9fc3-68ee7f7c208c)
 
+#### Filler Cell Placement
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/3bbb2ae7-9cda-4912-a56c-554efc647735)
 
+##### Output
 
 
 
