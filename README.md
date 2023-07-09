@@ -1,22 +1,22 @@
 ## Physical_Design_Flow
 
-#### Downloading Required Files
+### Downloading Required Files
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/ea277448-4fc9-4a73-837c-3aa9ec8b09a3)
 
-#### Design Specification and RTL Coding
-Simulating a Simple Counter Design
+### Design Specification and RTL Coding
+#### Simulating a Simple Counter Design
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/6fea9e3f-5b20-435b-b9e1-58377b8bdcc2)
 
-#### Code Coverage Flow for a Counter Design
+### Code Coverage Flow for a Counter Design
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/9159680b-63de-4fe2-9e8c-1e7e5ea0be46)
 
-Analysing Block Coverage
+#### Analysing Block Coverage
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/0bdbdaae-9f30-4349-915e-61b03f30d8f6)
-Toggle Coverage Context
+#### Toggle Coverage Context
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/faabc029-2ea9-4425-943c-e8713d96ae18)
 
-#### The Synthesis Stage
-Genus Terminal After Synthesis
+### The Synthesis Stage
+#### Genus Terminal After Synthesis
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/b75b39ba-0450-48ba-b641-daabb88dfae1)
 
 #### Schematic View of Design
@@ -28,50 +28,49 @@ Genus Terminal After Synthesis
 #### Writing Output Files Directory
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/5b9802d4-d2a9-4e2e-af6b-3da20a9e386e)
 
-#### Running the Synthesis Flow with DFT
-Schematic After Running the Flow with DFT
+### Running the Synthesis Flow with DFT
+#### Schematic After Running the Flow with DFT
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/2adcf541-bb51-462f-b1c9-ced378821030)
 
-
-#### Running Equivalency Checking
+### Running Equivalency Checking
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/6a0c6433-89e7-42b1-a1e5-b1186db00501)
 
-Output of LEC
+#### Output of LEC
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/94f43831-392e-469b-be56-e93e74474a83)
 
-Creating a .v Format File from the .lib Format using Conformal
+#### Creating a .v Format File from the .lib Format using Conformal
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/755d1c10-8119-4d58-8a35-056d97bd3d5b)
 
-#### Physical Design Implementation Flow Using Innovus
+### Physical Design Implementation Flow Using Innovus
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/5f6d5004-c6bf-40a6-bd61-23690215cf18)
 
-Floorplan View
+#### Floorplan View
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/a770a148-7a90-42ed-a11c-fa8be4bca3f2)
 
-Viewing the Design Hierarchy
+#### Viewing the Design Hierarchy
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/6e7430f2-90f4-4ef0-b4da-159efb865039)
 
-Floorplanning the Design
+#### Floorplanning the Design
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/ad2ab29c-eea6-4845-ac4d-8ca84d7129e1)
 
-Pin Assignment
+#### Pin Assignment
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/02e4bcbc-833d-4209-8f87-a6b1ddd80e43)
 
-Power Planning
-Adding Rings
+#### Power Planning
+##### Adding Rings
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/e632aad7-1f70-4541-9525-3e9f1ecad600)
 
-Adding Stripe
+##### Adding Stripe
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/aa307252-92a8-4598-af44-168c2fad923a)
 
-Creating Power Rails with Special Route
+#### Creating Power Rails with Special Route
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/4934e74e-6c7d-40c5-8f23-124aaee2d5d5)
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/f3731501-1771-494f-a5c5-34ca4bd72c46)
 
-Output
+##### Output
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/6bf513f7-3670-42fc-b87d-c6e68947eae1)
 
-Running Placement Optimization: Physical View After Placement
+#### Running Placement Optimization: Physical View After Placement
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/6413f594-62dc-4aba-b6e0-13766d8b980f)
 
 
