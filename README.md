@@ -71,8 +71,8 @@ Creating Power Rails with Special Route
 Output
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/6bf513f7-3670-42fc-b87d-c6e68947eae1)
 
-Running Placement Optimization
-
+Running Placement Optimization: Physical View After Placement
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/6413f594-62dc-4aba-b6e0-13766d8b980f)
 
 
 
