@@ -42,7 +42,47 @@ Output of LEC
 Creating a .v Format File from the .lib Format using Conformal
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/755d1c10-8119-4d58-8a35-056d97bd3d5b)
 
-#### Physical Design Implementation Flow
+#### Physical Design Implementation Flow Using Innovus
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/5f6d5004-c6bf-40a6-bd61-23690215cf18)
+
+Floorplan View
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/a770a148-7a90-42ed-a11c-fa8be4bca3f2)
+
+Viewing the Design Hierarchy
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/6e7430f2-90f4-4ef0-b4da-159efb865039)
+
+Floorplanning the Design
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/ad2ab29c-eea6-4845-ac4d-8ca84d7129e1)
+
+Pin Assignment
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/02e4bcbc-833d-4209-8f87-a6b1ddd80e43)
+
+Power Planning
+Adding Rings
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/e632aad7-1f70-4541-9525-3e9f1ecad600)
+
+Adding Stripe
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/aa307252-92a8-4598-af44-168c2fad923a)
+
+Creating Power Rails with Special Route
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/4934e74e-6c7d-40c5-8f23-124aaee2d5d5)
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/f3731501-1771-494f-a5c5-34ca4bd72c46)
+
+Output
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/6bf513f7-3670-42fc-b87d-c6e68947eae1)
+
+Running Placement Optimization
+
+
+
+
+
+
+
+
+
+
+
 
 
 
