@@ -1,5 +1,8 @@
 ## Physical_Design_Flow
 
+## Author: Srinivas Rahul Sapireddy
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
+
 ### Downloading Required Files
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/ea277448-4fc9-4a73-837c-3aa9ec8b09a3)
 
