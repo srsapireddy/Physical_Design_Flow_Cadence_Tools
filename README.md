@@ -36,6 +36,13 @@ Schematic After Running the Flow with DFT
 #### Running Equivalency Checking
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/6a0c6433-89e7-42b1-a1e5-b1186db00501)
 
+Output of LEC
+![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/94f43831-392e-469b-be56-e93e74474a83)
+
+
+
+
+
 
 
 
