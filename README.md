@@ -73,6 +73,18 @@
 #### Running Placement Optimization: Physical View After Placement
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/6413f594-62dc-4aba-b6e0-13766d8b980f)
 
+#### Running Clock Tree Synthesis
+Save pre-CTS and post-CTS designs
+
+### Routing the Nets
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/d5df9739-3691-4b03-b22f-933cc434fcd5)
+
+### Extraction and Timing Analysis: Run RC extraction on the routed design 
+![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/d4750fc9-9e35-423f-8f5d-30fff2c05193)
+##### Run setup-and-hold timing analysis 
+
+### Running Physical Verification
+
 
 
 
