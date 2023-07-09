@@ -109,7 +109,6 @@ Save pre-CTS and post-CTS designs
 #### Rail Analysis
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/bdcebf6c-6e52-4701-b54c-5cfc36184033)
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/ace71618-7850-4d9d-8ec2-362f87d3cab4)
-![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/25708b24-f9c4-4b18-b95e-9662ddffb6de)
 ![image](https://github.com/srsapireddy/Physical_Design_Flow_Cadence_Tools/assets/32967087/6517a131-a069-4984-b550-a5eafda0243c)
 
 ##### Output
