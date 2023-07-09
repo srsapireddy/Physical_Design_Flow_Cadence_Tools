@@ -7,7 +7,7 @@
 Simulating a Simple Counter Design
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/6fea9e3f-5b20-435b-b9e1-58377b8bdcc2)
 
-#### Code Coverage Flow for a Simple Counter Design
+#### Code Coverage Flow for a Counter Design
 ![image](https://github.com/srsapireddy/Physical_Design_Flow/assets/32967087/9159680b-63de-4fe2-9e8c-1e7e5ea0be46)
 
 Analysing Block Coverage
